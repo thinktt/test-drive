@@ -1,0 +1,34 @@
+{
+  "name": "test-drive",
+  "version": "0.0.1",
+  "description": "testing test driven dev",
+  "main": "",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "co-fs": "^1.2.0",
+    "co-supertest": "^0.0.10",
+    "koa": "^1.1.2",
+    "koa-router": "^5.3.0",
+    "should": "^7.1.1",
+    "supertest": "^1.1.0",
+    "co-mocha": "^1.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinktt/test-drive.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thinktt/test-drive/issues"
+  },
+  "homepage": "https://github.com/thinktt/test-drive#readme"
+}

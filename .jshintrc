@@ -1,0 +1,7 @@
+{
+  "multistr" : true,  
+  "laxbreak" : true,
+  "funcscope": true,
+  "unused" : true,
+  "esnext": true
+}
